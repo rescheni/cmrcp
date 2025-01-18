@@ -1,0 +1,6 @@
+[INFO] | 10:33:45 => first log message
+[INFO] | 10:33:59 => ip:port ===> 127.0.0.1:8081
+[INFO] | 10:34:34 => first log message
+[INFO] | 10:34:34 => service_name : FriendServerRpc
+[INFO] | 10:34:34 => method_name : GetFriendList
+[INFO] | 10:34:40 => ip:port ===> 127.0.0.1:2181
