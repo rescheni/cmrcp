@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/reschen/cmrpc/cmrpc/lib/libcmrpc.a CMakeFiles/cmrpc.dir/cmrpcapplication.cc.o CMakeFiles/cmrpc.dir/cmrpcchannel.cc.o CMakeFiles/cmrpc.dir/cmrpcconfig.cc.o CMakeFiles/cmrpc.dir/cmrpccontroller.cc.o CMakeFiles/cmrpc.dir/logger.cc.o CMakeFiles/cmrpc.dir/rpcheader.pb.cc.o CMakeFiles/cmrpc.dir/rpcprovider.cc.o CMakeFiles/cmrpc.dir/zookeeperutil.cc.o
-/usr/bin/ranlib /home/reschen/cmrpc/cmrpc/lib/libcmrpc.a

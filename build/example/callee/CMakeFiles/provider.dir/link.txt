@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/provider.dir/friendservice.cc.o CMakeFiles/provider.dir/__/friend.pb.cc.o -o /home/reschen/cmrpc/cmrpc/bin/provider   -L/home/reschen/cmrpc/cmrpc/lib  -Wl,-rpath,/home/reschen/cmrpc/cmrpc/lib /home/reschen/cmrpc/cmrpc/lib/libcmrpc.a -lprotobuf -lmuduo_net -lmuduo_base -lpthread -lzookeeper_mt 
